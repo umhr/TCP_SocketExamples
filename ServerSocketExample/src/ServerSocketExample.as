@@ -64,7 +64,7 @@ package
  		private function onSend(e:Event):void 
 		{
 			sendMessage(UICanvas.getInstance().getInputText());
-			UICanvas.getInstance().removeEventListener("send", onSend);
+			//UICanvas.getInstance().removeEventListener("send", onSend);
 		}
 		
 		public function sendMessage(message:String):void {
