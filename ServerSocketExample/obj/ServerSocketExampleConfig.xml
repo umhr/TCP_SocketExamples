@@ -16,19 +16,19 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'2012/11/08'</value>
+      <value>'2012/11/10'</value>
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\Users\apple7\Documents\GitHub\TCP_SocketExamples\ServerSocketExample\src</path-element>
-      <path-element>C:\Program Files\FlashDevelop\Library\AS3\classes</path-element>
+      <path-element>C:\Users\mbp7\Documents\GitHub\TCP_SocketExamples\ServerSocketExample\src</path-element>
+      <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>C:\Users\apple7\Documents\GitHub\TCP_SocketExamples\ServerSocketExample\lib\MinimalComps_0_9_10.swc</path-element>
+      <path-element>C:\Users\mbp7\Documents\GitHub\TCP_SocketExamples\ServerSocketExample\lib\MinimalComps_0_9_10.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>C:\Users\apple7\Documents\GitHub\TCP_SocketExamples\ServerSocketExample\src\Main.as</path-element>
+    <path-element>C:\Users\mbp7\Documents\GitHub\TCP_SocketExamples\ServerSocketExample\src\Main.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>
